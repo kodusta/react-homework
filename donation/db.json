@@ -1,0 +1,19 @@
+{
+  "donations": [
+    {
+      "id": 1,
+      "donorName": "Selahaddin",
+      "amount": 50
+    },
+    {
+      "id": 2,
+      "donorName": "Azra",
+      "amount": 100
+    },
+    {
+      "donorName": "test",
+      "amount": 4444,
+      "id": 3
+    }
+  ]
+}
